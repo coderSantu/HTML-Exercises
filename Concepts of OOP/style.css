@@ -1,0 +1,21 @@
+.box{
+    background-color: rgba(245, 240, 234, 0.4);
+    color: rgb(1, 74, 32);
+    padding: 15px 20px;
+    margin: 20px;
+    box-shadow: 5px 4px 5px gray;
+    border-radius: 10px;
+    line-height: 180%;
+}
+h3{
+    color: rgb(27, 123, 206);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.inside{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+body{
+    background-color: rgb(215, 232, 232);
+}

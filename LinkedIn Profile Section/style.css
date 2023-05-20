@@ -1,0 +1,157 @@
+body{
+    background-color: rgb(224 223 220);
+}
+.main{
+    background-color: rgb(255 255 255);
+    border-radius: 6px;
+    width: 225px;
+    height: 400px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.img{
+    background-image: url(./background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    width: 225px;
+    height: 55px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.img img{
+    border: 2px solid #fff;
+    border-radius: 50%;
+    width: 72px;
+    height: 72px;
+    margin-left: 76.5px;
+    margin-top:23px ;
+}
+.name{
+    text-align: center;
+    text-decoration: none;
+    margin-top: 50px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.name:hover{
+    text-decoration: underline;
+    text-decoration-color: rgb(127, 31, 216);
+    cursor: pointer;
+}
+.detl{
+    margin-top: 14px;
+    color: #878383f7;
+    padding: 0px 14px;
+    font-size: 12px;
+}
+.border{
+    border-top: 1px #d2cbcb solid ;   
+    margin-top: 10px;
+}
+.network {
+    width: 225px;
+    height: 28px;
+    margin-top: 10px; 
+}
+.network a{
+    text-decoration: none;
+    margin-left: 10px;
+}
+.network:hover{
+    background-color: rgb(238, 233, 238);
+    cursor: pointer;
+}
+.network span{
+    padding-left: 33px;
+}
+.connect{
+    width: 225px;
+    height: 45px;    
+}
+.connect a{
+    text-decoration: none;
+    margin-left: 10px;
+}
+.connect:hover{
+    background-color:  rgb(238, 233, 238);
+    cursor: pointer;
+}
+.connect span{
+    padding-left: 103px;
+}
+.black{
+    color: rgb(57, 54, 54);
+    margin-left: 10px;
+}
+
+#light{
+    color: #878383f7;
+    font-size: 12px;
+    font-weight: bold;
+}
+.blue {
+    color: rgb(78, 78, 228);
+    font-weight:bold;
+    font-size: 12px;
+}
+.under{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 13px;
+    color: black;
+    margin-left: 12px;
+}
+.membership{
+    margin-top: 10px;
+    height: 50px;
+    width: 225px;
+    border-top: 1px #d2cbcb solid ; 
+    border-bottom: 1px #d2cbcb solid ;
+}
+.membership a{
+    text-decoration: none;    
+}
+.membership img{
+    width: 12px;
+    height: 12px;
+    margin-left: 12px;
+    margin-bottom: -2px;
+}
+.membership:hover{
+    background-color: rgb(238, 233, 238);
+    cursor: pointer;
+}
+.membership span{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgb(102, 99, 99);
+    margin-left: 5px;
+}
+.btn{  
+    height: 31px;
+    width: 225px; 
+    font-size: 12px;
+    padding-top: 8px;
+    font-weight: bold;
+}
+.btn a{
+    text-decoration: none;
+    margin-left: 10px;
+    color: rgb(102, 99, 99);
+}
+.btn img {
+    width: 16px;
+    height:16px;
+    margin-bottom: -3px;
+}
+.btn span{
+    padding-left: 6px;
+
+}
+.btn:hover{
+    background-color: rgb(238, 233, 238);
+    cursor: pointer;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;  
+}
